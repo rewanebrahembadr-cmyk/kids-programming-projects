@@ -1,4 +1,4 @@
-# Python Projects for Kids
+# 01_Python - Python Projects for Kids
 
 This folder contains beginner-friendly Python projects designed to teach kids and young learners programming step by step.
 
