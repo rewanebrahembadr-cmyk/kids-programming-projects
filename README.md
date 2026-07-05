@@ -32,7 +32,10 @@ The goal of this repository is to build a structured teaching portfolio for kids
 
 Each project focuses on one or more programming concepts such as variables, conditions, loops, functions, lists, and problem-solving.
 
-## Projects
+## Projects Roadmap
+
+This repository is planned to include different programming tracks for kids and beginners.  
+The current focus is Python, and more tracks will be added step by step.
 
 | Track | Description | Status |
 |---|---|---|
