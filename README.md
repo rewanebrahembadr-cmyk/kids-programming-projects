@@ -34,8 +34,14 @@ Each project focuses on one or more programming concepts such as variables, cond
 
 ## Projects
 
-| Track | Status |
-|---|---|
-| Python | In Progress |
-| Scratch | Coming Soon |
-| MIT App Inventor | Coming Soon |
+| Track | Description | Status |
+|---|---|---|
+| Python | Beginner-friendly Python projects for kids and young learners | In Progress |
+| Scratch | Visual programming projects, games, stories, and animations for kids | Coming Soon |
+| MIT App Inventor | Mobile app projects for beginners and young learners | Coming Soon |
+| Arduino | Electronics and hardware projects using sensors, LEDs, and circuits | Coming Soon |
+| Robotics | Robotics projects focused on movement, sensors, and problem-solving | Coming Soon |
+| AI for Kids | Simple AI activities and projects designed for young learners | Coming Soon |
+| Web Development | Beginner HTML, CSS, and JavaScript projects for kids | Coming Soon |
+| Game Development | Simple game projects using beginner-friendly tools and logic | Coming Soon |
+| Creative Coding | Fun coding activities combining art, animation, and interaction | Coming Soon |
