@@ -59,12 +59,11 @@ Result: 15.0
 
 ## Code Screenshot
 
-![Simple Calculator Code](images/code_screenshot.png)
+![Simple Calculator Code](images/code_screenshot)
 
 ## Output Screenshot
 
-![Simple Calculator Output](images/output_screenshot.png)
-
+![Simple Calculator Output](images/output_screenshot.)
 ## Teaching Notes
 
 This project is suitable for kids and beginners because it connects programming with basic math operations that students already understand.
