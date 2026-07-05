@@ -17,12 +17,27 @@ Through these projects, students will learn:
 
 ## Projects List
 
-| Project | Concepts | Status |
+| No. | Project | Concepts |
 |---|---|---|
-| Number Checker | Variables, input, conditions | Coming Soon |
-| Simple Calculator | Operators, conditions, user input | Coming Soon |
-| Guess the Number | Loops, random module, conditions | Coming Soon |
-| Quiz Game | Lists, loops, score system | Coming Soon |
-| Password Generator | Strings, random module, functions | Coming Soon |
-| Student Grades System | Lists, functions, calculations | Coming Soon |
-| To-Do List | Lists, functions, menu system | Coming Soon |
+| 01 | Number Checker | Variables, input, conditions |
+| 02 | Simple Calculator | Operators, conditions, user input |
+| 03 | Guess the Number | Loops, random module, conditions |
+| 04 | Quiz Game | Lists, loops, score system |
+| 05 | Password Generator | Strings, random module, functions |
+| 06 | Student Grades System | Lists, functions, calculations |
+| 07 | To-Do List | Lists, functions, menu system |
+
+## Teaching Purpose
+
+These projects are designed as practical activities for teaching Python basics to kids and beginners.  
+Each project focuses on simple logic, clear steps, and interactive learning.
+
+## Folder Structure
+
+Each project will have its own folder containing:
+
+- Python source code
+- Project README
+- Learning objectives
+- Teaching notes
+- Possible improvements
