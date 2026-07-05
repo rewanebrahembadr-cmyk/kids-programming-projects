@@ -36,18 +36,34 @@ By completing this project, students will learn:
 ## How to Run
 
 ```bash
-python number_checker.pyExample Output
+python number_checker.py
+```
+
+## Example Output
+
+```text
 Enter a number: 8
 The number is positive.
 The number is even.
-Teaching Notes
+```
+
+## Code Screenshot
+
+![Number Checker Code](images/code_screenshot.png.jpeg)
+
+## Output Screenshot
+
+![Number Checker Output](images/output_screenshot.png.jpeg)
+
+## Teaching Notes
 
 This project is suitable for kids and beginners because it connects programming logic with simple math concepts.
 
 It can be used to explain how computers make decisions based on conditions.
 
-Possible Improvements
-Check if the number is divisible by 5
-Add input validation
-Allow the user to check more than one number
-Add a simple menu system
+## Possible Improvements
+
+- Check if the number is divisible by 5
+- Add input validation
+- Allow the user to check more than one number
+- Add a simple menu system
